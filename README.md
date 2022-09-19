@@ -1,4 +1,4 @@
-- 👋 Ola,sou Ana
+- 👋 Ola, sou Ana
 - 👀 Estou aprendendo programação
 - 🌱 sou aluno de pensamento computacional
 - 💞️ estou aprendendo trabalhar com HTML
