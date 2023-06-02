@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(155, 127, 255);
+    color: white;
+    display: flex;
+}
+.cabeçalho-img{
+    width: 20%;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+}
